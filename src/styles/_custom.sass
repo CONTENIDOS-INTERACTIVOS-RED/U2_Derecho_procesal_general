@@ -15,17 +15,66 @@
 .brounded-sm
   border-radius: 8px !important
 
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto !important
+  height: auto !important 
+
+.j1
+  display: grid
+  align-items: center  
+
+.br-1
+  border-radius: 10px !important 
+
+.dot
+  &-1  
+    border-style: dashed 
+    border-width: 1px 
+    background-color: #655531
+  &-2
+    border-style: dashed 
+    border-width: 1px 
+    background-color: #56678D
+
+.color
+  &-1
+    color: #496406 !important  
+  &-2
+    color: #0060FF !important  
+
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #FBF3C6
   &-2
-    background-color: #FFFBE8
+    background-color: #CBD0DC
   &-3
-    background-color: #F0E9F6
+    background-color: #56678D
+    *
+      color: white
   &-4
+    background-color: #CBD0DC
+  &-5
+    background-color: #E9E0CC
+  &-6
+    background-color: #9EC6E0
+  &-7
+    background-color: #BA9C5A
+  &-8
+    background-color: #DCE0E7
+  &-9
+    background-color: #CEE2EF
+  &-10
     background-color: #EAF8FD
+  &-11
+    background-color: #EAF8FD
+  &-12
+    background-color: #EAF8FD    
   &-info
-    background-color: #E8EEFD
+    background-image: url("../assets/bg/bg-info.png") !important
   &-sintesis
     background-color: #F9F9F9
   &-white
@@ -41,13 +90,32 @@
 
 // Full Width Background
 .bg-full-width
-  background-size: cover
-  background-repeat: no-repeat
-  background-position: bottom
-  margin-inline: -3.3rem
-  @media screen and (max-width: $bp-max-sm)
-    padding-left: 1.5rem
-    padding-right: 1.5rem
+  &-1
+    background-size: 100% 75%
+    background-repeat: no-repeat
+    background-position: bottom
+    margin-inline: -3.3rem
+    @media screen and (max-width: $bp-max-sm)
+      padding-left: 1.5rem
+      padding-right: 1.5rem
+
+  &-2
+    background-size: 100% 52%
+    background-repeat: no-repeat
+    background-position: center
+    margin-inline: -3.3rem
+    @media screen and (max-width: $bp-max-sm)
+      padding-left: 1.5rem
+      padding-right: 1.5rem
+
+  &-3
+    background-size: 100% 85%
+    background-repeat: no-repeat
+    background-position: bottom
+    margin-inline: -3.3rem
+    @media screen and (max-width: $bp-max-sm)
+      padding-left: 1.5rem
+      padding-right: 1.5rem  
 
 .bg-fondo
   &-1
@@ -227,3 +295,22 @@ th.bg-color-tabla
 
 .bordes
   border: 1px solid lightgray !important
+
+.acordion__header
+  background-color: #FCF7D9 !important
+
+.acordion__header--active
+  background-color: #FBF3C6 !important
+  h4, i
+    color: #000 !important
+
+.acordion__contenido
+  background-color: #FDFAEB !important      
+
+.slyder-a__tipo-b
+  background-color: #1D7083 !important    
+.slyder-a__bullets__item
+  background-color: #93B0C6 !important
+  border-color: #93B0C6 !important
+.slyder-a__bullets__item--active
+  background-color: #35B5E6 !important        
