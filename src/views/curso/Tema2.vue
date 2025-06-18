@@ -254,15 +254,15 @@
             p Es una herramienta que permite a las partes del proceso solicitar la separación del juez cuando estiman que existen motivos fundados para dudar de su imparcialidad. A diferencia del impedimento, que se presenta por iniciativa del propio juez, la recusación parte de una de las partes o de su apoderado. El objetivo es proteger el derecho fundamental al juez natural e imparcial, consagrado en el artículo 29 de la constitución política de Colombia. Para que una recusación proceda, debe cumplir tres requisitos trascendentales debe estar motivada, presentarse de manera oportuna y acompañarse de los elementos probatorios que respalden la causal alegada.
 
 
-        .row.mb-5
-          .col-lg-3.mb-3.mb-lg-0 
-            figure
-              img.img-a.img-t(src="@/assets/curso/temas/57.png", data-aos="zoom-in")            
-          .col-lg-9.j1
-            p(data-aos="fade-down") Las causales de impedimento y recusación son coincidentes, y están descritas de forma taxativa en el Artículo 141 del Código General del Proceso. Algunas de las más relevantes incluyen. Tener interés directo o indirecto en el resultado del proceso; haber emitido opinión sobre el caso antes de asumirlo; tener parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil con alguna de las partes, apoderados o testigos; haber sido sancionado por una de las partes; o haber intervenido como testigo, perito, apoderado o funcionario en otra etapa del mismo proceso o en otro conexo.
+    .row.mb-5
+      .col-lg-3.mb-3.mb-lg-0 
+        figure
+          img.img-a.img-t(src="@/assets/curso/temas/57.png", data-aos="zoom-in")            
+      .col-lg-9.j1
+        p(data-aos="fade-down") Las causales de impedimento y recusación son coincidentes, y están descritas de forma taxativa en el Artículo 141 del Código General del Proceso. Algunas de las más relevantes incluyen. Tener interés directo o indirecto en el resultado del proceso; haber emitido opinión sobre el caso antes de asumirlo; tener parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil con alguna de las partes, apoderados o testigos; haber sido sancionado por una de las partes; o haber intervenido como testigo, perito, apoderado o funcionario en otra etapa del mismo proceso o en otro conexo.
 
-            .bg-color-9.dot-2.p-4(data-aos="fade-left")
-              p.mb-0 Por ejemplo, si una jueza, en una reunión académica previa, expresó públicamente que en Colombia todos los procesos de responsabilidad médica deben fallarse a favor del paciente y luego es asignada para resolver un caso de mala praxis, la parte demandada podría recusar su participación por haberse pronunciado anticipadamente, lo cual puede considerarse un prejuzgamiento indebido que afecta la apariencia de imparcialidad. 
+        .bg-color-9.dot-2.p-4(data-aos="fade-left")
+          p.mb-0 Por ejemplo, si una jueza, en una reunión académica previa, expresó públicamente que en Colombia todos los procesos de responsabilidad médica deben fallarse a favor del paciente y luego es asignada para resolver un caso de mala praxis, la parte demandada podría recusar su participación por haberse pronunciado anticipadamente, lo cual puede considerarse un prejuzgamiento indebido que afecta la apariencia de imparcialidad. 
 
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0 
