@@ -300,11 +300,6 @@
           .col-lg
             p.mb-0 En conclusión, los impedimentos y recusaciones no solo son mecanismos técnicos del proceso, sino verdaderas garantías constitucionales que protegen el derecho fundamental a un juez imparcial, aseguran la legalidad de las decisiones judiciales y fortalecen la confianza de los ciudadanos en la administración de justicia. Su correcta aplicación exige rigor jurídico, honestidad ética y un conocimiento profundo del procedimiento. 
 
-
-
-
-
-
     .bg-full-width.border-top.actividad.bg-color-actividad
       .p-4.p-md-5
         #Actividad                
