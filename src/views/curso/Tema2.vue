@@ -197,7 +197,7 @@
           .p-4
             p.mb-0 Ese auto se remite al juez en conflicto, quien puede aceptar la competencia o, por el contrario, reiterar su posición de incompetencia. En este último caso, el conflicto queda formalizado y el expediente debe remitirse al superior común para que decida mediante auto, sin posibilidad de apelación. 
 
-    p(data-aos="fade-down") El debido proceso implica el respeto de múltiples garantías:
+    p(data-aos="fade-down") Este auto tiene fuerza vinculante para los jueces y restablece la continuidad del trámite procesal.
 
     .row.justify-content-center.mb-5           
       .col-lg-4
@@ -270,8 +270,9 @@
           img.img-a.img-t(src="@/assets/curso/temas/58.png", data-aos="zoom-in")      
       .col-lg-8
         .bg-color-5.p-4.j1.h-100(data-aos="fade-left")
-          p.mb-0 El procedimiento para tramitar una recusación también está regulado. La parte que recusa debe presentar su solicitud antes de la audiencia inicial o dentro del término legal que tenga para contestar la demanda, según el tipo de proceso. La recusación debe formularse por escrito, señalando expresamente la causal, los hechos que la sustentan y anexando las pruebas pertinentes. Si no se cumplen estos requisitos, la recusación será rechazada de plano por el superior jerárquico del juez recusado. Si la recusación es admitida, se suspende el curso del proceso y se traslada al juez cuestionado para que rinda su informe en un término de tres días. Luego, el superior jerárquico decide si la acepta o no. En caso de aceptación, se reemplaza al juez; si no, este continuará conociendo el caso. 
+          p.mb-0 El procedimiento para tramitar una recusación también está regulado. La parte que recusa debe presentar su solicitud antes de la audiencia inicial o dentro del término legal que tenga para contestar la demanda, según el tipo de proceso. La recusación debe formularse por escrito, señalando expresamente la causal, los hechos que la sustentan y anexando las pruebas pertinentes. Si no se cumplen estos requisitos, la recusación será rechazada de plano por el superior jerárquico del juez recusado. Si la recusación es admitida, se suspende el curso del proceso y se traslada al juez cuestionado para que rinda su informe en un término de tres días. Luego, el superior jerárquico decide si la acepta o no. En caso de aceptación, se reemplaza al juez; si no, este continuará conociendo el caso.
 
+    p(data-aos="fade-down") En la práctica judicial, tanto los impedimentos como las recusaciones, son herramientas claves para asegurar el respeto al principio de imparcialidad judicial, pero su uso indebido puede convertirse en una maniobra dilatoria. Por ello, la ley contempla sanciones cuando se presentan recusaciones temerarias, es decir, aquellas que carecen de fundamento jurídico o probatorio y que solo buscan obstaculizar el avance del proceso. En estos casos, la parte que recusa puede ser condenada a pagar una multa o las costas procesales derivadas de la maniobra. 
     .bg-color-3.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
         .col-lg
